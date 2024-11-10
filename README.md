@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na Uniasselvi
-- 💼 Venho atuando na área Web, desenvolvendo soluções completas, como plugins para WordPress, extensões para navegadores, bibliotecas, APIs, jogos 2D e aplicações Web.
+- 💼 Atualmente venho trabalhando como Backend desenvolvendo Plugins para Wordpress, APIs e muito mais.
 
 ## Minhas Skills
 

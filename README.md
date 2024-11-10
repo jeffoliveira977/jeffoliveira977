@@ -1,15 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=jeffoliveira977&color=006bed)
 
-## Olá, me chamo Jeferson Oliveira 
+## Hi there. I am Jeferson Oliveira.
 
 
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas na Uniasselvi
-- 🔭 Crio Plugins para Wordpress, extensões para navegadores, bibliotecas, APIs, jogos 2D e aplicações Web.
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Studying Systems Analysis and Development at Uniasselvi
+- 🔭 Creating plugins for WordPress, browser extensions, libraries, APIs, 2D games, and web applications.
+- 🤔 Exploring new technologies and developing software solutions.
 
-## Minhas Skills
+## My Skills
 
-**Linguagens**
+**Languages**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,7 +23,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-**Banco de dados** 
+**Database** 
 
 ![Mongodb](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mysql](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -39,7 +39,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-**Ferramentas**
+**Tools**
 
 ![Eclipse](https://img.shields.io/badge/eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -47,7 +47,7 @@
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Frameworks & Bibliotecas**
+**Frameworks and Library**
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -56,7 +56,7 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**APIs Gráficas**
+**Graphic APIs**
 
 ![HLSL](https://img.shields.io/badge/hlsl-%234D4D4D.svg?style=for-the-badge&logo=directx&logoColor=white)
 ![GLSL](https://img.shields.io/badge/glsl-%23FFA500.svg?style=for-the-badge&logo=opengl&logoColor=white)

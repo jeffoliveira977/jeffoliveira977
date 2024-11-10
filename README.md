@@ -63,3 +63,7 @@
 ![OpenGL](https://img.shields.io/badge/opengl-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=black)
 ![Vulkan](https://img.shields.io/badge/vulkan-%23AC162C.svg?style=for-the-badge&logo=vulkan&logoColor=white)
 
+### Linguagens mais utilizadas
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffoliveira977&layout=compact)
+
+

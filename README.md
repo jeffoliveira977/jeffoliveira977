@@ -1,35 +1,10 @@
+![](https://komarev.com/ghpvc/?username=jeffoliveira977&color=006bed)
+
 ## Sobre mim
 
-Minha jornada na programação inicia aos 15 anos, quando comecei a criar modificações para GTA usando linguagens de scripts, o que rapidamente despertou minha curiosidade para entender como os jogos funcionavam por trás das cenas. Isso me levou a mergulhar no mundo da engenharia reversa, onde desenvolvi habilidades em linguagens como C/C++, além de Assembly x86, explorando profundamente os sistemas e o funcionamento interno dos jogos.
-
-Com o tempo, minha paixão evoluiu para o campo da computação gráfica, onde me especializei no uso de APIs avançadas como DirectX, OpenGL e Vulkan para criar gráficos e renderizações realistas.
-
-Nos últimos quatro anos, venho atuando na área Web, desenvolvendo soluções completas, como plugins para WordPress, extensões para navegadores, bibliotecas, APIs, jogos 2D e aplicações Web.
-
-## Meus Projetos
-Aqui estão alguns dos projetos que desenvolvi ao longo da minha jornada na programação. Cada um deles reflete diferentes aspectos das minhas habilidades em tecnologias web, jogos e computação gráfica.
-
-### **Biblioteca de Autenticação OTP**
-- **Descrição**: Biblioteca que implementa uma interface de autenticação de dois fatores utilizando OTP (One-Time Password).
-- **Tecnologias**: JavaScript, TypeScript, HTML e Tailwind
-- **Repositório**: [GitHub](https://github.com/jeffoliveira977/OTP-input-system)
-- **Demonstração**: [Visualizar no CodePen](https://codepen.io/Ton-Miles/pen/GRPMqGN)
-  
-### **Biblioteca de Notificação**
-- **Descrição**: Biblioteca que permite a criação de notificações personalizáveis (info, sucesso, erro, aviso) com animações dinâmicas como slide, bounce e fade in/out.
-- **Tecnologias**: JavaScript, TypeScript, HTML, Tailwind e GSAP
-- **Repositório**: [GitHub](https://github.com/jeffoliveira977/NotifymeJS)
-- **Demonstração**: [Visualizar no CodePen](https://codepen.io/Ton-Miles/pen/xxmPYyP)
-  
-### **Puzzle Game**
-- **Descrição**: Projeto acadêmico com o objetivo de recriar fielmente o RPG Puzzle Quest: Challenge of the Warlords
-- **Tecnologias**: Java e Swing
-- **Repositório**: [GitHub](https://github.com/jeffoliveira977/Puzzle-Game)
-  
-### **Deferred SA (Em progresso)**
-- **Descrição**: Projeto com o objetivo de recriar o motor gráfico RenderWare do GTA San Andreas utilizando técnicas avançadas de renderização.
-- **Tecnologias**: C/C++, Assembly x86, HLSL e DirectX 9
-- **Repositório**: [GitHub](https://github.com/jeffoliveira977/DeferredSA)
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas na Uniasselvi
+- 💼 Venho atuando na área Web, desenvolvendo soluções completas, como plugins para WordPress, extensões para navegadores, bibliotecas, APIs, jogos 2D e aplicações Web.
 
 ## Minhas Skills
 

@@ -1,34 +1,56 @@
-# Olá, eu sou o [Seu nome]! 
+![](https://komarev.com/ghpvc/?username=jeffoliveira977&color=006bed)
 
-Sou um desenvolvedor apaixonado por criar soluções inovadoras. Meus principais interesses são [mencione suas áreas de interesse, como desenvolvimento web, mobile, data science, etc.].
+## Sobre mim
 
-## ️ Habilidades Técnicas
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando {seu curso} no {faculdade}.
+- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
+- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
 
-* **Linguagens de Programação:**
-  * **Back-end:** Node.js, Python (Django, Flask), Ruby on Rails, Java (Spring)
-  * **Front-end:** JavaScript (React, Angular, Vue), HTML, CSS
-  * **Outras:** Go, C++, SQL
-* **Ferramentas:**
-  * Git, Docker, Kubernetes, AWS, GCP, Azure
-  * Bibliotecas e frameworks: TensorFlow, PyTorch, React Native
-* **Bases de dados:** PostgreSQL, MySQL, MongoDB
-* **Metodologias:** Agile, Scrum, DevOps
+## Minhas Skills
 
-##  Projetos
+**Aplicações e dados**
 
-* **[Nome do Projeto 1]:** [Descrição breve do projeto, tecnologias utilizadas, link para o repositório]
-* **[Nome do Projeto 2]:** [Descrição breve do projeto, tecnologias utilizadas, link para o repositório]
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-##  Colabore comigo!
+**Utilidades**
 
-Sinta-se à vontade para me contactar para:
-* **Colaborar em projetos open-source:** Estou sempre aberto a novas oportunidades.
-* **Discutir sobre tecnologia:** Adoro conversar sobre as últimas novidades do mundo da programação.
-* **Oferecer mentoria:** Tenho prazer em ajudar outros desenvolvedores a crescer.
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-##  Entre em contato
+**DevOps**
 
-* **LinkedIn:** [Seu perfil no LinkedIn]
-* **E-mail:** [Seu endereço de e-mail]
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 
-**[Adicione uma imagem ou GIF para deixar seu README mais interessante]**
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)

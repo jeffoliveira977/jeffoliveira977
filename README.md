@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=jeffoliveira977&color=006bed)
-
 ## Sobre mim
 
 Minha jornada na programação inicia aos 15 anos, quando comecei a criar modificações para GTA usando linguagens de scripts, o que rapidamente despertou minha curiosidade para entender como os jogos funcionavam por trás das cenas. Isso me levou a mergulhar no mundo da engenharia reversa, onde desenvolvi habilidades em linguagens como C/C++, além de Assembly x86, explorando profundamente os sistemas e o funcionamento interno dos jogos.

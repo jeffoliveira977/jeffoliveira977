@@ -1,10 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=jeffoliveira977&color=006bed)
 
-## Sobre mim
+## Olá, me chamo Jeferson Oliveira 
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na Uniasselvi
-- 💼 Atualmente venho trabalhando como Backend desenvolvendo Plugins para Wordpress, APIs e muito mais.
+- 🔭 Crio Plugins para Wordpress, extensões para navegadores, bibliotecas, APIs, jogos 2D e aplicações Web.
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 
 ## Minhas Skills
 
@@ -63,7 +64,32 @@
 ![OpenGL](https://img.shields.io/badge/opengl-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=black)
 ![Vulkan](https://img.shields.io/badge/vulkan-%23AC162C.svg?style=for-the-badge&logo=vulkan&logoColor=white)
 
-### Linguagens mais utilizadas
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffoliveira977&layout=compact)
+#### ⚙️ GitHub Analytics
 
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=jeffoliveira977&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffoliveira977&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=jeffoliveira977&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 

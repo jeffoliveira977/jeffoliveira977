@@ -16,18 +16,18 @@ Aqui estão alguns dos projetos que desenvolvi ao longo da minha jornada na prog
 - **Tecnologias**: JavaScript, TypeScript, HTML e Tailwind
 - **Repositório**: [GitHub](https://github.com/jeffoliveira977/OTP-input-system)
 - **Demonstração**: [Visualizar no CodePen](https://codepen.io/Ton-Miles/pen/GRPMqGN)
-- 
+  
 ### **Biblioteca de Notificação**
 - **Descrição**: Biblioteca que permite a criação de notificações personalizáveis (info, sucesso, erro, aviso) com animações dinâmicas como slide, bounce e fade in/out.
 - **Tecnologias**: JavaScript, TypeScript, HTML, Tailwind e GSAP
 - **Repositório**: [GitHub](https://github.com/jeffoliveira977/NotifymeJS)
 - **Demonstração**: [Visualizar no CodePen](https://codepen.io/Ton-Miles/pen/xxmPYyP)
-- 
+  
 ### **Puzzle Game**
 - **Descrição**: Projeto acadêmico com o objetivo de recriar fielmente o RPG Puzzle Quest: Challenge of the Warlords
 - **Tecnologias**: Java e Swing
 - **Repositório**: [GitHub](https://github.com/jeffoliveira977/Puzzle-Game)
-- 
+  
 ### **Deferred SA (Em progresso)**
 - **Descrição**: Projeto com o objetivo de recriar o motor gráfico RenderWare do GTA San Andreas utilizando técnicas avançadas de renderização.
 - **Tecnologias**: C/C++, Assembly x86, HLSL e DirectX 9

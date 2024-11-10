@@ -2,17 +2,11 @@
 
 ## Sobre mim
 
-Minha jornada na programação começou aos 15 anos, quando comecei a criar modificações para GTA usando scripts, o que rapidamente despertou minha curiosidade para entender como os jogos funcionavam por trás das cenas. Isso me levou a mergulhar no mundo da engenharia reversa, onde desenvolvi habilidades em linguagens como C e C++, além de Assembly x86, explorando profundamente os sistemas e o funcionamento interno dos jogos.
+Minha jornada na programação inicia aos 15 anos, quando comecei a criar modificações para GTA usando linguagens de scripts, o que rapidamente despertou minha curiosidade para entender como os jogos funcionavam por trás das cenas. Isso me levou a mergulhar no mundo da engenharia reversa, onde desenvolvi habilidades em linguagens como C/C++, além de Assembly x86, explorando profundamente os sistemas e o funcionamento interno dos jogos.
 
-Com o tempo, minha paixão evoluiu para o campo da computação gráfica, onde me especializei no uso de APIs avançadas como DirectX, OpenGL e Vulkan para criar gráficos e renderizações realistas. Esses conhecimentos abriram portas para uma ampla gama de projetos, desde renderizações gráficas até o desenvolvimento de jogos.
+Com o tempo, minha paixão evoluiu para o campo da computação gráfica, onde me especializei no uso de APIs avançadas como DirectX, OpenGL e Vulkan para criar gráficos e renderizações realistas.
 
-Nos últimos quatro anos, venho aplicando essa experiência em minha atuação na área Web, onde trabalho desenvolvendo soluções completas, como:
-
-Plugins para WordPress: criação de funcionalidades personalizadas e automações para sites e e-commerces.
-Extensões para navegadores: desenvolvimento de ferramentas que aprimoram a experiência dos usuários e otimizam fluxos de trabalho diretamente nos navegadores.
-Bibliotecas e APIs: construção de bibliotecas e APIs para notificações, autenticação OTP, e outras funcionalidades essenciais para sistemas modernos.
-Jogos 2D: desenvolvimento de jogos com mecânicas imersivas e jogabilidade envolvente.
-Aplicações Web: construção de aplicações responsivas e escaláveis, que oferecem experiências fluídas e personalizadas.
+Nos últimos quatro anos, venho atuando na área Web, desenvolvendo soluções completas, como plugins para WordPress, extensões para navegadores, bibliotecas, APIs, jogos 2D e aplicações Web.
 
 ## Meus Projetos
 Aqui estão alguns dos projetos que desenvolvi ao longo da minha jornada na programação. Cada um deles reflete diferentes aspectos das minhas habilidades em tecnologias web, jogos e computação gráfica.
@@ -33,6 +27,11 @@ Aqui estão alguns dos projetos que desenvolvi ao longo da minha jornada na prog
 - **Descrição**: Projeto acadêmico com o objetivo de recriar fielmente o RPG Puzzle Quest: Challenge of the Warlords
 - **Tecnologias**: Java e Swing
 - **Repositório**: [GitHub](https://github.com/jeffoliveira977/Puzzle-Game)
+- 
+### **Deferred SA (Em progresso)**
+- **Descrição**: Projeto com o objetivo de recriar o motor gráfico RenderWare do GTA San Andreas utilizando técnicas avançadas de renderização.
+- **Tecnologias**: C/C++, Assembly x86, HLSL e DirectX 9
+- **Repositório**: [GitHub](https://github.com/jeffoliveira977/DeferredSA)
 
 ## Minhas Skills
 
@@ -46,7 +45,9 @@ Aqui estão alguns dos projetos que desenvolvi ao longo da minha jornada na prog
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Assembly x86](https://img.shields.io/badge/Assembly_x86-%23A8A8A8.svg?style=for-the-badge&logo=none)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 **Banco de dados** 
 

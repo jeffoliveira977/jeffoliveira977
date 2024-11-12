@@ -33,18 +33,6 @@
 ![HLSL](https://img.shields.io/badge/hlsl-%234D4D4D.svg?style=for-the-badge&logo=directx&logoColor=white)
 ![DirectX](https://img.shields.io/badge/directx-%237289DA.svg?style=for-the-badge&logo=directx&logoColor=white)
 
-**Database** 
-
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HLSL](https://img.shields.io/badge/hlsl-%234D4D4D.svg?style=for-the-badge&logo=directx&logoColor=white)
-![DirectX](https://img.shields.io/badge/directx-%237289DA.svg?style=for-the-badge&logo=directx&logoColor=white)
 
 #### ⚙️ GitHub Analytics
 
